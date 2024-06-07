@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../vicky/.vscode"
+		},
+		{
+			"path": "../vicky/imege"
+		},
+		{
+			"path": "../vicky/node_modules"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imege"
+	}
+}
